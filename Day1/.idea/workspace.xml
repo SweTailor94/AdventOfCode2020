@@ -9,10 +9,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="593bd5be-1413-43c7-9220-f1263a142544" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-    </list>
+    <list default="true" id="593bd5be-1413-43c7-9220-f1263a142544" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607029170351</updated>
-      <workItem from="1607029171780" duration="3149000" />
+      <workItem from="1607029171780" duration="3847000" />
     </task>
     <task id="LOCAL-00001" summary="Day1 part 1">
       <created>1607031880134</created>
@@ -103,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607031880134</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day1 part 2">
+      <created>1607032371874</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607032371874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day1 part 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day1 part 1" />
+    <MESSAGE value="Day1 part 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day1 part 2" />
   </component>
 </project>
