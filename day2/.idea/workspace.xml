@@ -10,10 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa69b084-c914-4062-9b53-fcaa0ae8ff3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/small.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/src/day3_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/src/input_map.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/src/test_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/password_list.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/password_list.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +75,6 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
@@ -96,8 +91,18 @@
       <workItem from="1607033542793" duration="7385000" />
       <workItem from="1607116053064" duration="57000" />
       <workItem from="1607116119034" duration="157000" />
-      <workItem from="1607116443632" duration="6839000" />
+      <workItem from="1607116443632" duration="7109000" />
+      <workItem from="1607200187248" duration="44000" />
+      <workItem from="1607200584291" duration="1266000" />
     </task>
+    <task id="LOCAL-00001" summary="Part 1 and 2">
+      <created>1607129446085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607129446085</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +119,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Part 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Part 1 and 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
