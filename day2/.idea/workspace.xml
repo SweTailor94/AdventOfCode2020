@@ -10,17 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa69b084-c914-4062-9b53-fcaa0ae8ff3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/day4_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/invalid_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/passport.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/test_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/valid_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/src/day3_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/src/input_map.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day3/src/test_input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/debug" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -101,8 +93,7 @@
       <workItem from="1607116119034" duration="157000" />
       <workItem from="1607116443632" duration="7109000" />
       <workItem from="1607200187248" duration="44000" />
-      <workItem from="1607200584291" duration="2511000" />
-      <workItem from="1607464373295" duration="1198000" />
+      <workItem from="1607200584291" duration="1266000" />
     </task>
     <task id="LOCAL-00001" summary="Part 1 and 2">
       <created>1607129446085</created>
