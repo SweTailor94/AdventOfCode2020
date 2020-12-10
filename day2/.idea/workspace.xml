@@ -9,20 +9,7 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa69b084-c914-4062-9b53-fcaa0ae8ff3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/day4_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/invalid_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/passport.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/test_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day4/src/valid_passport_data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="aa69b084-c914-4062-9b53-fcaa0ae8ff3a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
